@@ -1,0 +1,6 @@
+C:\Users\gonza\Desktop\NataliaFernandez2°C\Entidades\bin\Release\Entidades.dll
+C:\Users\gonza\Desktop\NataliaFernandez2°C\Entidades\bin\Release\Entidades.pdb
+C:\Users\gonza\Desktop\NataliaFernandez2°C\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\NataliaFernandez2°C\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\NataliaFernandez2°C\Entidades\obj\Release\Entidades.dll
+C:\Users\gonza\Desktop\NataliaFernandez2°C\Entidades\obj\Release\Entidades.pdb

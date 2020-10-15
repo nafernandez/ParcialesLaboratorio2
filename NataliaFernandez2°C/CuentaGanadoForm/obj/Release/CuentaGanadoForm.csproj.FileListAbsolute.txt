@@ -1,0 +1,15 @@
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\bin\Release\CuentaGanadoForm.exe.config
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\bin\Release\CuentaGanadoForm.exe
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\bin\Release\CuentaGanadoForm.pdb
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\bin\Release\Entidades.dll
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\bin\Release\Entidades.pdb
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.CuentaGanadoraForm.resources
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.FormInforme.resources
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.FormularioPersona.resources
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.Properties.Resources.resources
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.csproj.GenerateResource.cache
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.csproj.CopyComplete
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.exe
+C:\Users\gonza\Desktop\NataliaFernandez2°C\CuentaGanadoForm\obj\Release\CuentaGanadoForm.pdb

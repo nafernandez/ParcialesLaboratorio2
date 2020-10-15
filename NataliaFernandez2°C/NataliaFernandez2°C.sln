@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{91426360-CB3B-495C-BB8E-85FBE14FEBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuentaGanadoForm", "CuentaGanadoForm\CuentaGanadoForm.csproj", "{7568FE6A-FBD3-4B5D-A596-7427B2445315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91426360-CB3B-495C-BB8E-85FBE14FEBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91426360-CB3B-495C-BB8E-85FBE14FEBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91426360-CB3B-495C-BB8E-85FBE14FEBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91426360-CB3B-495C-BB8E-85FBE14FEBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7568FE6A-FBD3-4B5D-A596-7427B2445315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7568FE6A-FBD3-4B5D-A596-7427B2445315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7568FE6A-FBD3-4B5D-A596-7427B2445315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7568FE6A-FBD3-4B5D-A596-7427B2445315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6795C07-7554-4CFD-8AE6-A69D435B10A8}
+	EndGlobalSection
+EndGlobal

@@ -85,11 +85,11 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
             foreach(Gente gente in gente)
             {
-                sb.AppendFormat(gente.ToString());
+                sb.AppendFormat((string)gente);
             }
             foreach (Empleado empleado in empleados)
             {
-                sb.AppendFormat(empleado.ToString());
+                sb.AppendFormat((string)empleado);
             }
             return sb.ToString();
         }
